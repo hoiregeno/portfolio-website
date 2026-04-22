@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 function Layout() {
   return (
-    <div>
+    <div className="bg-teal-950 min-h-screen">
       <Navbar />
       <Main />
     </div>
